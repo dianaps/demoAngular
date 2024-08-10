@@ -34,6 +34,6 @@
                     filterArray.push(array[i]);
             }
             return filterArray;
-        };
+        }
     }
 })();
